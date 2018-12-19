@@ -1,0 +1,2 @@
+#https://mindmajix.com/aws/creating-a-custom-ami-in-aws
+
